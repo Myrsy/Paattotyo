@@ -1,0 +1,20 @@
+Base path: F:/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=0 insize=1499 outsize=1205 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=13 insize=1205 outsize=2949 ok=1
+Cmd: disassembleShader
+  api=17 insize=313 outsize=870 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (33): invalid vs_2_0 output semantic 'TANGENT'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING
+  error: 2 plat 1 at (34): invalid vs_2_0 output semantic 'NORMAL'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING
+  api=1 type=0 insize=1499 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=0
+Cmd: disassembleShader
+  api=17 insize=313 outsize=870 ok=1
+Cmd: disassembleShader
+  api=15 insize=841 outsize=1717 ok=1
+Cmd: disassembleShader
+  api=11 insize=152 outsize=185 ok=1
